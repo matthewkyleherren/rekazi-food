@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /
+
+User-agent: AdsBot-Google
+Disallow: /
+
+User-agent: AdsBot-Google-Mobile
+Disallow: /
+
+User-agent: GoogleOther
+Allow: /.well-known/privacy-sandbox-attestations.json
+Disallow: /

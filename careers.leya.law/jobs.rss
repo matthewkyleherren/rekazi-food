@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:tt="https://teamtailor.com/locations">
+  <channel>
+    <title>Leya</title>
+    <description>Open positions</description>
+    <link>https://careers.leya.law/jobs</link>
+    <item>
+      <title>Senior Devops/Infrastructure Engineer</title>
+      <description>&lt;h5 dir="ltr"&gt;About us:&lt;/h5&gt;&lt;p dir="ltr"&gt;At Leya, we’re on a mission to transform the way lawyers work. Our AI-native platform lets legal professionals enhance their productivity and automate complex workflows. We collaborate closely with our clients and iterate at a market-leading pace. In a year, we have gone from an early MVP to tools used daily by thousands of lawyers, and are now scaling rapidly. We are here to win together with our team and clients, and carry the belief that life is too short not to accomplish something truly special.&lt;br&gt;&lt;br&gt;You are joining an early stage scale-up with exceptional product-market fit, trusted by global leaders like Bird &amp;amp; Bird, Pérez-Llorca, and Mannheimer Swartling. Backed by over $35M in funding from top investors including Benchmark, Redpoint, and Y Combinator. And a world-class team from Google, Klarna, Spotify, and top tier law firms with infinite room to grow professionally.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;&lt;strong&gt;The role:&lt;/strong&gt;&lt;/h5&gt;&lt;p dir="ltr"&gt;As a senior devops/infrastructure engineer you will have responsibility for some of the most important parts of the technology at leya. You will focus your time on supporting our developer teams by building a great platform they can use to ship their services and products. You will think about our core infra, deployment and rollout strategies, observability and alerting etc.&lt;/p&gt;&lt;p dir="ltr"&gt;You will mentor junior colleagues and help define the strategy for the devops team with the CTO and Head of Engineering. Within a short period of time, you may also take on an explicit leadership role within the team.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;What you will be doing:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Manage our cloud resources by developing IaC modules (Terraform or Pulumi)&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Develop an IaC infra strategy to best serve our expanding developer teams and empower them to own operations and infrastructure&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Build reusable abstractions and modules that dev teams can use&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Work on multiple clouds, primarily Azure, but also AWS and GCP&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Develop CI/CD workflows with Github Actions&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Keep on eye on our prod infrastructure to provide extremely high uptime&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Ensure our infrastructure is both secure, reliable, and highly scalable&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Work with the latest genAI models at very high levels of throughput&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Work with some of the latest technologies and some of the smartest engineers in the industry&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;Who you are:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;A passionate engineer with several years of experience in managing infrastructure for multiple teams&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;You’re autonomous and take pride in the setups you build&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;You’re a problem solver who’s not afraid to come up with creative and pragmatic solutions&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;You enjoy building tools for developers to use&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;Preferred qualifications:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Building multi-team setups in Terraform or Pulumi&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Managing and scaling RDBMS, message-based systems&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Deployment/rollout strategies like blue/green, canary etc&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Observability and alerting tools like open telemetry, prometheus, grafana, azure monitor, or aws cloudwatch&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Kubernetes&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;Additional experience that’s a plus:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Experience leading a platform devops team&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Experience working with highly confidential data - e.g. from medical, financial, public or similar industries&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;What’s in it for you:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Competitive base salary&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Generous stock option program&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;30 vacation days&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;5000 SEK in Wellness contribution &lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Pension scheme comparable to ITP1 &lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Office in central part of Stockholm&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <pubDate>Thu, 21 Nov 2024 19:21:43 +0100</pubDate>
+      <link>https://careers.leya.law/jobs/5233117-senior-devops-infrastructure-engineer</link>
+      <remoteStatus>none</remoteStatus>
+      <guid>11100fae-376a-4a58-a134-ac0d92dc2973</guid>
+      <tt:locations>
+        <tt:location>
+          <tt:name></tt:name>
+          <tt:address>Mäster Samuelsgatan 45</tt:address>
+          <tt:zip>111 57</tt:zip>
+          <tt:city>Stockholm</tt:city>
+          <tt:country>Sweden</tt:country>
+        </tt:location>
+      </tt:locations>
+      <tt:department>Engineering</tt:department>
+      <tt:role/>
+    </item>
+    <item>
+      <title>Legal Counsel</title>
+      <description>&lt;h5 dir="ltr"&gt;About us:&lt;/h5&gt;&lt;p dir="ltr"&gt;At Leya, we’re on a mission to transform the way lawyers work. Our AI-native platform lets legal professionals enhance their productivity and automate complex workflows. We collaborate closely with our clients and iterate at a market-leading pace. In a year, we have gone from an early MVP to tools used daily by thousands of lawyers, and are now scaling rapidly. We are here to win together with our team and clients, and carry the belief that life is too short not to accomplish something truly special.&lt;br&gt;&lt;br&gt;You are joining an early stage scale-up with exceptional product-market fit, trusted by global leaders like Bird &amp;amp; Bird, Pérez-Llorca, and Mannheimer Swartling. Backed by over $35M in funding from top investors including Benchmark, Redpoint, and Y Combinator. And an world-class team from Mannheimer Swartling, Google, Klarna, Spotify, and top tier law firms with infinite room to grow professionally.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;The role:&lt;/h5&gt;&lt;p dir="ltr"&gt;As a Legal Counsel at Leya, you’ll be at the centre of the legal tech revolution , playing a pivotal role in ensuring legal compliance, mitigating risks and supporting our dynamic business operations. You will support our commercial and product teams on a broad range of topics. The Leya legal function operates across a wide range of legal disciplines as well as jurisdictions and plays a key role as a partner to all teams with a focus on product development, operations, and commercial projects. Beyond your legal expertise, you should also be able to innovate, solve problems and proactively look for solutions in our challenging mission to revolutionise legal work worldwide.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;What you will be doing:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Work closely with the senior stakeholders in our operational, commercial and product teams in the Nordics on strategic as well as day-to-day legal matters, including with new products and services, processes, contracts, partnerships, and supply chains.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Review product designs, data flows, and processes and help balancing risks.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Draft and negotiate commercial contracts.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Own privacy compliance. Actively assess and address privacy risks, ensuring alignment with applicable data protection regulations.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Help building efficient and scalable processes to meet legal and regulatory requirements and drafting policies and guidelines to help teams proactively design and build requirements into products and processes; and&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Help educate and train employees on key legal topics such as regulatory requirements.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;Who you are:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Swedish Law Degree LL.M.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Proficiency in both spoken and written Swedish and English. Additional language skills are meritorious. &lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;3-5 years of experience at a top-tier law firm or as an in-house legal counsel. It’s a plus if you have experience from working for a SaaS company.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Experience in handling corporate matters and drafting and negotiating complex commercial agreements. Experience with data privacy matters, IT security and/or corporate law is meritorious.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Your focus is on achieving meaningful business outcomes, translating into actionable advice delivered clearly and comprehensively.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Self-motivated, independent, proactive and capable of managing your own projects.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;You thrive in a fast-paced, dynamic entrepreneurial environment and rapidly evolving business setting. You take initiative and are committed to delivering high-quality results.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;You are excited about the potential of technology to transform the legal industry. You have a keen interest in AI and legal tech, and you are eager to learn and apply these tools in real-world settings.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;What’s in it for you:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Competitive base salary&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Generous stock option program&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;30 vacation days&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;5000 SEK in Wellness contribution&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Pension scheme comparable to ITP1&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;An office in the central parts of Stockholm, this is an on-site position.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <pubDate>Thu, 21 Nov 2024 16:29:37 +0100</pubDate>
+      <link>https://careers.leya.law/jobs/5232464-legal-counsel</link>
+      <remoteStatus>none</remoteStatus>
+      <guid>689a507b-3df3-4141-83f0-670783b7b5f9</guid>
+      <tt:locations>
+        <tt:location>
+          <tt:name></tt:name>
+          <tt:address>Mäster Samuelsgatan 45</tt:address>
+          <tt:zip>111 57</tt:zip>
+          <tt:city>Stockholm</tt:city>
+          <tt:country>Sweden</tt:country>
+        </tt:location>
+      </tt:locations>
+      <tt:department>Other</tt:department>
+      <tt:role/>
+    </item>
+    <item>
+      <title>Senior Integrations Engineer</title>
+      <description>&lt;h5 dir="ltr"&gt;About us:&lt;/h5&gt;&lt;p dir="ltr"&gt;At Leya, we’re on a mission to transform the way lawyers work. Our AI-native platform lets legal professionals enhance their productivity and automate complex workflows. We collaborate closely with our clients and iterate at a market-leading pace. In a year, we have gone from an early MVP to tools used daily by thousands of lawyers, and are now scaling rapidly. We are here to win together with our team and clients, and carry the belief that life is too short not to accomplish something truly special.&lt;br&gt;&lt;br&gt;You are joining an early stage scale-up with exceptional product-market fit, trusted by global leaders like Bird &amp;amp; Bird, Pérez-Llorca, and Mannheimer Swartling. Backed by over $35M in funding from top investors including Benchmark, Redpoint, and Y Combinator. And an world-class team from Google, Klarna, Spotify, and top tier law firms with infinite room to grow professionally.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;The role:&lt;/h5&gt;&lt;p dir="ltr"&gt;In this role, you'll architect and implement key integrations core to the user experience and Leya product. You will work on and build file uploads, 2-way file syncing, document parsing with OCR and getting all data ready for our AI use cases. Working together with a top-tier team of engineers serving thousands of users you'll own these integrations, balancing speed, security, and code quality to build the backend functionality of our data foundation.&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;What you will be doing:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Architect and implement features and improvements across our backend systems, file uploads and processing and integrations with file management platforms&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Take ownership of our product backends and integration systems, balancing high-quality code, security and speed of development&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Work with some of the latest technologies and some of the smartest engineers in the industry&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Helping break down tasks and ensure their effective execution&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Be challenged and grow very quickly as a developer&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;Who you are:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Skilled:&lt;/strong&gt; You have a proven track record of developing reliable backend systems and API integrations and you are not afraid of responsibility for important and mission-critical software.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Innovative:&lt;/strong&gt; You thrive in a dynamic start-up environment where problems don’t always have obvious or easy solutions. You’re a problem solver who’s not afraid to come up with creative solutions and think holistically about data and architecture. You are curious and passionate about writing good software, and you’re ambitious about learning and improving yourself as an engineer.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Autonomous:&lt;/strong&gt; Although constantly working in a team we believe in self leadership and ownership! You value feedback, take initiative without needing direction, and focus on outcomes. You are not afraid to try new things and learn from your mistakes rather than play it safe.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Entrepreneurial:&lt;/strong&gt; Leya is an ambitious start-up. Things move fast, tasks and challenges may be demanding, and responsibilities may change over time. But you’ll get to work with a team of brilliant and dedicated people that are all working to solve difficult problems and really change how legal work is done.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h5 dir="ltr"&gt;Preferred qualifications:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;2+ years of building backend systems&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Nodejs and Python&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Experience building API-based integrations into systems like Salesforce, Hubspot, Zapier, Sharepoint, iManage, Google Drive etc&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Postgres&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h5 dir="ltr"&gt;Additional experience that’s a plus:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;ORM-systems like Drizzle, Prisma&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Experience with IPaaS’ like Paragon, Integration.dev, Airbyte etc&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;GraphQL&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Elasticsearch&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Kubernetes&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h5 dir="ltr"&gt;What’s in it for you:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Competitive base salary&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Generous stock option program&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;30 vacation days&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;5000 SEK in Wellness contribution &lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Pension scheme comparable to ITP1 &lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Office in the central parts of Stockholm&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <pubDate>Thu, 21 Nov 2024 16:13:41 +0100</pubDate>
+      <link>https://careers.leya.law/jobs/5232337-senior-integrations-engineer</link>
+      <remoteStatus>none</remoteStatus>
+      <guid>c84a657d-d7b2-481d-a953-90b4ef85597d</guid>
+      <tt:locations>
+        <tt:location>
+          <tt:name></tt:name>
+          <tt:address>Mäster Samuelsgatan 45</tt:address>
+          <tt:zip>111 57</tt:zip>
+          <tt:city>Stockholm</tt:city>
+          <tt:country>Sweden</tt:country>
+        </tt:location>
+      </tt:locations>
+      <tt:department>Engineering</tt:department>
+      <tt:role/>
+    </item>
+    <item>
+      <title>Legal Engineer - Germany</title>
+      <description>&lt;p&gt;&lt;strong&gt;About us&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;At Leya, we’re on a mission to transform the way lawyers work. Our AI-native platform lets legal professionals enhance their productivity and automate complex workflows. We collaborate closely with our clients and iterate at a market-leading pace. In a year, we have gone from an early MVP to tools used daily by thousands of lawyers, and are now scaling rapidly. We are here to win together with our team and clients, and carry the belief that life is too short not to accomplish something truly special.&lt;br&gt;&lt;br&gt;You are joining an early stage scale-up with exceptional product-market fit, trusted by global leaders like Bird &amp;amp; Bird, Pérez-Llorca, and Mannheimer Swartling. Backed by over $35M in funding from top investors including Benchmark, Redpoint, and Y Combinator. And a world-class team from Google, Klarna, Spotify, and top tier law firms with infinite room to grow professionally.&lt;br&gt;&lt;br&gt;&lt;strong&gt;The Role:&lt;br&gt;&lt;br&gt;&lt;/strong&gt;At Leya, we’re transforming the legal industry with AI-powered solutions, and we’re looking for a &lt;strong&gt;Legal Engineer&lt;/strong&gt; to drive our growth in Germany. In this role, you’ll leverage your legal expertise to introduce Leya’s tools to law firms and in-house teams, becoming a trusted advisor on how our solutions can enhance their daily workflows.&lt;/p&gt;&lt;p dir="ltr"&gt;You’ll have the opportunity to influence how our AI solutions are perceived and adopted in the German market. By building strong relationships with key decision-makers and leading tailored demos and educational sessions, you’ll help clients understand the real-world impact of our technology.&lt;/p&gt;&lt;p dir="ltr"&gt;Joining Leya means having a direct influence on our strategy and success in Germany as well as product direction. You’ll be part of a fast-moving startup, where your contributions will shape how we grow and succeed in a rapidly evolving legal landscape.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5&gt;&lt;strong&gt;What you will be doing:&lt;/strong&gt;&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;Engage with lawyers at existing and prospective clients to understand their workflow challenges, then demonstrate how Leya’s tools can solve them in a practical, impactful way.&lt;/li&gt;
+&lt;li&gt;Establish yourself as a trusted expert by addressing specific legal problems such as legal research, contract drafting, document analysis, due diligence, and more. &lt;/li&gt;
+&lt;li&gt;Lead tailored product demos for various law firm practice groups and in-house legal teams, asking insightful questions to validate how Leya can add value and showcasing our features and benefits.&lt;/li&gt;
+&lt;li&gt;Act as the “Voice of the Customer,” sharing legal insights with the product teams to improve our product features based on client feedback.&lt;/li&gt;
+&lt;li&gt;Help shape market perception by positioning Leya as a credible, substantive, and valuable partner, using our AI tools to make lawyers more effective and efficient.&lt;br&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;h5&gt;Who you are:&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;strong&gt;Legal Expertise:&lt;/strong&gt; 3+ years at a top-tier law firm, ideally in corporate law or litigation.&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;Executive Presence:&lt;/strong&gt; Proven ability to engage and build trust with decision-makers at all levels.&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;Strong Network:&lt;/strong&gt; A robust professional network within the legal industry, enabling you to open doors and build connections with ease.&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;Great Presentation and Communication Skills:&lt;/strong&gt; Exceptional presentation skills—whether on-the-spot whiteboarding or delivering polished demos.&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;Industry Insight:&lt;/strong&gt; Deep understanding of legal workflows and the challenges faced by legal teams.&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;AI Curiosity:&lt;/strong&gt; A passion for exploring how AI can revolutionize the legal landscape.&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;Bonus Points:&lt;/strong&gt; Experience in sales, client-facing roles, business development, or directly managing client matters and relationships&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;Based: &lt;/strong&gt;Berlin, Hamburg, Frankfurt or München&lt;br&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;h5&gt;What's in it for you:&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;Competitive base salary&lt;/li&gt;
+&lt;li&gt;Generous stock option program&lt;/li&gt;
+&lt;li&gt;Autonomy and impact&lt;/li&gt;
+&lt;li&gt;The opportunity to drive Leya’s growth in Germany&lt;/li&gt;
+&lt;li&gt;Frequent trips to our HQ in Stockholm as well as voluntary relocation&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <pubDate>Sat, 16 Nov 2024 12:27:01 +0100</pubDate>
+      <link>https://careers.leya.law/jobs/5209530-legal-engineer-germany</link>
+      <remoteStatus>hybrid</remoteStatus>
+      <guid>48798d7a-80b7-4d8d-bb3a-86e89342f2bc</guid>
+      <tt:locations>
+        <tt:location>
+          <tt:name>Berlin</tt:name>
+          <tt:address/>
+          <tt:zip/>
+          <tt:city>Berlin</tt:city>
+          <tt:country>Germany</tt:country>
+        </tt:location>
+        <tt:location>
+          <tt:name>Frankfurt</tt:name>
+          <tt:address/>
+          <tt:zip/>
+          <tt:city>Frankfurt</tt:city>
+          <tt:country>Germany</tt:country>
+        </tt:location>
+        <tt:location>
+          <tt:name>Hamburg</tt:name>
+          <tt:address/>
+          <tt:zip/>
+          <tt:city>Hamburg</tt:city>
+          <tt:country>Germany</tt:country>
+        </tt:location>
+        <tt:location>
+          <tt:name/>
+          <tt:address/>
+          <tt:zip/>
+          <tt:city>Munich</tt:city>
+          <tt:country>Germany</tt:country>
+        </tt:location>
+      </tt:locations>
+      <tt:department>Growth</tt:department>
+      <tt:role/>
+    </item>
+    <item>
+      <title>Senior Full-Stack Engineer</title>
+      <description>&lt;h5 dir="ltr"&gt;About us:&lt;/h5&gt;&lt;p dir="ltr"&gt;At Leya, we’re on a mission to transform the way lawyers work. Our AI-native platform lets legal professionals enhance their productivity and automate complex workflows. We collaborate closely with our clients and iterate at a market-leading pace. In a year, we have gone from an early MVP to tools used daily by thousands of lawyers, and are now scaling rapidly. We are here to win together with our team and clients, and carry the belief that life is too short not to accomplish something truly special.&lt;br&gt;&lt;br&gt;You are joining an early stage scale-up with exceptional product-market fit, trusted by global leaders like Bird &amp;amp; Bird, Pérez-Llorca, and Mannheimer Swartling. Backed by over $35M in funding from top investors including Benchmark, Redpoint, and Y Combinator. And an world-class team from Google, Klarna, Spotify, and top tier law firms with infinite room to grow professionally.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;&lt;strong&gt;
+The role:&lt;/strong&gt;&lt;/h5&gt;&lt;p dir="ltr"&gt;As a Fullstack Engineer at Leya you will build, review and ship amazing products helping legal professionals all over the world in their day-to-day job. You’ll get the chance to work across the entire tech stack with clear ownership and autonomy.&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;What you will be doing:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Architect and implement features end-to-end for our web platform&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Take ownership of our codebase, balancing high-quality code, security and speed of development&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Work with technologies such as Python, React, Node.js, AWS, Azure and Kubernetes &lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Review code and mentor junior colleagues to support them in their development, making the team even better! &lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Drive continuous improvement and challenge us, the industry and yourself &lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h5 dir="ltr"&gt;Who you are:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;A passionate engineer with several years of experience building great products using cutting-edge technologies&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;You feel comfortable working across the entire tech stack, with focus on backend development&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;You’re autonomous and take pride in the code you write&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;You’re a problem solver who’s not afraid to come up with creative solutions and think holistically about software architecture&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Experience in infrastructure and integrations are a big plus&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h5 dir="ltr"&gt;What’s in it for you:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Competitive base salary&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Generous stock option program&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;30 vacation days&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;5000 SEK in Wellness contribution &lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Pension scheme comparable to ITP1 &lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Office in the central parts of Stockholm&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <pubDate>Fri, 15 Nov 2024 10:01:40 +0100</pubDate>
+      <link>https://careers.leya.law/jobs/5203145-senior-full-stack-engineer</link>
+      <remoteStatus>none</remoteStatus>
+      <guid>de12a403-ebf2-4a29-ab4d-d96fd0114629</guid>
+      <tt:locations>
+        <tt:location>
+          <tt:name></tt:name>
+          <tt:address>Mäster Samuelsgatan 45</tt:address>
+          <tt:zip>111 57</tt:zip>
+          <tt:city>Stockholm</tt:city>
+          <tt:country>Sweden</tt:country>
+        </tt:location>
+      </tt:locations>
+      <tt:department>Engineering</tt:department>
+      <tt:role/>
+    </item>
+    <item>
+      <title>Senior Product Operations Specialist</title>
+      <description>&lt;h5 dir="ltr"&gt;About Leya &lt;/h5&gt;&lt;p dir="ltr"&gt;At Leya, we’re on a mission to transform the way lawyers work. Our AI-native platform lets legal professionals enhance their productivity and automate complex workflows. We collaborate closely with our clients and iterate at a market-leading pace. In a year, we have gone from an early MVP to tools used daily by thousands of lawyers, and are now scaling rapidly. We are here to win together, and carry the belief that life is too short not to accomplish something truly special. Why join Leya:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Exceptional product-market fit: We’re partnering with some of the largest global law firms and corporations, including Bird &amp;amp; Bird, Pérez-Llorca, and Mannheimer Swartling.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Strategic investors: We’ve raised over $35 million from top investors, including Benchmark, Redpoint, and Y Combinator.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;World-class team: Our team members previously built world-class tech at places like Google, Klarna, Spotify and Microsoft.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Competitive compensation: We offer competitive cash and equity packages.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h5 dir="ltr"&gt;About the Role&lt;/h5&gt;&lt;p dir="ltr"&gt;As the first member of Leya’s growing Product Operations team, you will work at the intersection of Leya’s cutting edge LegalTech products and the operational realities of what it takes to deliver for a massive and rapidly scaling set of customers.&lt;/p&gt;&lt;p dir="ltr"&gt;You will own the operations of all products at Leya together with our Product and Engineering Lead, while also influencing the overall development of Leya’s internal operations as the company rapidly scales.  You will collaborate with your product partners to lay out a data-driven and customer-informed roadmap of features to build and improvements to implement, build out automation and processes to help Leya scale internally, and assist in the launch of new features and products. You’ll work closely with product managers, engineers, design, data and our customer-facing teams, as well as partners and vendors outside of Leya.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;What You’ll Do&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Customer Obsession&lt;/strong&gt;: Represent the “voice of the customer” within your product space, work to connect the day to day customer experience to product and engineering teams, and bring customer insights to help teams think beyond the boundaries of what exists today &lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Process Development&lt;/strong&gt;: Own meaningful company-wide initiatives to help prepare Leya for larger scale, and to create predictable and reliable processes for the benefit of the Leya team and our customers and partners&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Product Analysis&lt;/strong&gt;: Create high-leverage product analytics and data analysis and use it to surface opportunities for improving performance, quality, and intuitiveness of the product&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Launch Support&lt;/strong&gt;: Ensure that product releases are flawless through documentation, enablement and context sharing across the organization&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Incident Management&lt;/strong&gt;: Achieve fast resolution of product bugs and issues by aiding in the tools and processes for incident identification and resolution&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;What You Need&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Minimum 3 years professional experience with 2 years working in product management, product operations, or strategy &amp;amp; operations roles, ideally in a fast growing business&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Experience driving fast and successful execution of complex initiatives that involve the coordination of efforts of many different teams&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Track record of “seeking the root cause” of issues to find more enduring and impactful solutions than others&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Experience leveraging qualitative and quantitative feedback to create product recommendations&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Experience working directly with customers or clients through feedback requests and/or user research interviews&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Experience levelling up and assisting junior members of your team with constructive feedback&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Excellent written and verbal communication skills with experience tailoring a message to different audiences&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Can translate data into insights and action, including experience querying SQL&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Comfort in ambiguity and a track record of charting your own path&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h5 dir="ltr"&gt;Nice-to-Haves&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Experience working with product analytics tools like PostHog, Amplitude, Mixpanel, or similar. &lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Experience with Retool or other low-code tooling platforms&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Experience in Management Consulting or Software Engineering &lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Technical programming experience (Python, Java, React)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;Benefits and Practical Details &lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;You’ll get a competitive salary, and you’ll get to own part of the company via stock options&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Office in central Stockholm 3 minute walk to central metro station&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;You will work on-site&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;We use English for internal communication&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Start date: January&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <pubDate>Tue, 15 Oct 2024 17:46:42 +0200</pubDate>
+      <link>https://careers.leya.law/jobs/5090009-senior-product-operations-specialist</link>
+      <remoteStatus>none</remoteStatus>
+      <guid>c9f6f920-df2c-476f-a4fd-4c8a2251b4e9</guid>
+      <tt:locations>
+        <tt:location>
+          <tt:name></tt:name>
+          <tt:address>Mäster Samuelsgatan 45</tt:address>
+          <tt:zip>111 57</tt:zip>
+          <tt:city>Stockholm</tt:city>
+          <tt:country>Sweden</tt:country>
+        </tt:location>
+      </tt:locations>
+      <tt:department>Product</tt:department>
+      <tt:role/>
+    </item>
+    <item>
+      <title>Senior Backend Engineer</title>
+      <description>&lt;h5 dir="ltr"&gt;About us:&lt;/h5&gt;&lt;p dir="ltr"&gt;At Leya, we’re on a mission to transform the way lawyers work. Our AI-native platform lets legal professionals enhance their productivity and automate complex workflows. We collaborate closely with our clients and iterate at a market-leading pace. In a year, we have gone from an early MVP to tools used daily by thousands of lawyers, and are now scaling rapidly. We are here to win together with our team and clients, and carry the belief that life is too short not to accomplish something truly special.&lt;br&gt;&lt;br&gt;You are joining an early stage scale-up with exceptional product-market fit, trusted by global leaders like Bird &amp;amp; Bird, Pérez-Llorca, and Mannheimer Swartling. Backed by over $35M in funding from top investors including Benchmark, Redpoint, and Y Combinator. And an world-class team from Google, Klarna, Spotify, and top tier law firms with infinite room to grow professionally.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;&lt;strong&gt;The role:&lt;/strong&gt;&lt;/h5&gt;&lt;p dir="ltr"&gt;As a Backend Engineer at Leya you will build, review and ship amazing products helping legal professionals all over the world in their day-to-day job. You’ll get the chance to work across the entire tech stack with clear ownership and autonomy.&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;What you will be doing:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Architect and implement features for our web platform&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Take ownership of our codebase, balancing high-quality code, security and speed of development&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Work with technologies such as Node.js, Python, Postgres, Elasticsearch, AWS, Azure and Kubernetes&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Review code and mentor junior colleagues to support them in their development, making the team even better! &lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Drive continuous improvement and challenge us, the industry and yourself &lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h5 dir="ltr"&gt;Who you are:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;A passionate engineer with several years of experience building great products using cutting-edge technologies&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;You feel comfortable working across the entire tech stack, with focus on backend development&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;You’re autonomous and take pride in the code you write&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;You’re a problem solver who’s not afraid to come up with creative solutions and think holistically about software architecture&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Experience in infrastructure and integrations are a big plus&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h5 dir="ltr"&gt;What’s in it for you:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Competitive base salary&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Generous stock option program&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;30 vacation days&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;5000 SEK in Wellness contribution &lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Pension scheme comparable to ITP1 &lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Office in the central parts of Stockholm&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;</description>
+      <pubDate>Sat, 28 Sep 2024 15:10:45 +0200</pubDate>
+      <link>https://careers.leya.law/jobs/5027757-senior-backend-engineer</link>
+      <remoteStatus>none</remoteStatus>
+      <guid>51c6d266-f918-492a-902a-e9ee1a6d081f</guid>
+      <tt:locations>
+        <tt:location>
+          <tt:name/>
+          <tt:address>Józefa Sarego 18</tt:address>
+          <tt:zip>33-332</tt:zip>
+          <tt:city>Kraków</tt:city>
+          <tt:country>Poland</tt:country>
+        </tt:location>
+        <tt:location>
+          <tt:name></tt:name>
+          <tt:address>Mäster Samuelsgatan 45</tt:address>
+          <tt:zip>111 57</tt:zip>
+          <tt:city>Stockholm</tt:city>
+          <tt:country>Sweden</tt:country>
+        </tt:location>
+      </tt:locations>
+      <tt:department>Engineering</tt:department>
+      <tt:role/>
+    </item>
+    <item>
+      <title>Data Engineer</title>
+      <description>&lt;h5 dir="ltr"&gt;About us:&lt;/h5&gt;&lt;p dir="ltr"&gt;At Leya, we’re on a mission to transform the way lawyers work. Our AI-native platform lets legal professionals enhance their productivity and automate complex workflows. We collaborate closely with our clients and iterate at a market-leading pace. In a year, we have gone from an early MVP to tools used daily by thousands of lawyers, and are now scaling rapidly. We are here to win together with our team and clients, and carry the belief that life is too short not to accomplish something truly special.&lt;br&gt;&lt;br&gt;You are joining an early stage scale-up with exceptional product-market fit, trusted by global leaders like Bird &amp;amp; Bird, Pérez-Llorca, and Mannheimer Swartling. Backed by over $35M in funding from top investors including Benchmark, Redpoint, and Y Combinator. And a world-class team from Google, Klarna, Spotify, and top tier law firms with infinite room to grow professionally.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;The role:
+&lt;/h5&gt;&lt;p dir="ltr"&gt;Are you passionate about AI and eager to work on groundbreaking projects? Do you want to be a part of a rock-star team in a promising startup, collaborate with industry leaders and make a real impact in the legal landscape? Here's your chance!&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;What you will be doing:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Architect and implement features and improvements across our data pipelines&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Monitor and ensure data freshness and health across many different sources&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Take ownership of our data pipelines and data warehouse, balancing high-quality code, security and speed of development&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Helping break down tasks and ensure their effective execution&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Work with some of the latest technologies and some of the smartest engineers in the industry&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Be challenged and grow very quickly as a developer&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;Who you are:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Skilled:&lt;/strong&gt; You have a proven track record of developing reliable data pipelines and you are not afraid of responsibility for important and mission-critical software.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Innovative:&lt;/strong&gt; You thrive in a dynamic start-up environment where problems don’t always have obvious or easy solutions. You’re a problem solver who’s not afraid to come up with creative solutions and think holistically about data and architecture. You are curious and passionate about writing good software, and you’re ambitious about learning and improving yourself as an engineer.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Autonomous:&lt;/strong&gt; Although constantly working in a team we believe in self leadership and ownership! You value feedback, take initiative without needing direction, and focus on outcomes. You are not afraid to try new things and learn from your mistakes rather than play it safe.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Entrepreneurial:&lt;/strong&gt; Leya is an ambitious start-up. Things move fast, tasks and challenges may be demanding, and responsibilities may change over time. But you’ll get to work with a team of brilliant and dedicated people that are all working to solve difficult problems and really change how legal work is done.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;Preferred qualifications:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;2+ years writing data pipelines with Python, SQL and some modern orchestration tool&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Dagster (Prefect, Airflow or similar also ok)&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Python&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;SQL&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;Additional experience that’s a plus:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;IaC (Pulumi or Terraform)&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;CI/CD pipelines&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Azure&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Elasticsearch&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Kubernetes&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;What’s in it for you:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Competitive base salary&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Generous stock option program&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;30 vacation days&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;5000 SEK in Wellness contribution &lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Pension scheme comparable to ITP1 &lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;An office in the central parts of Stockholm&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <pubDate>Wed, 25 Sep 2024 11:12:30 +0200</pubDate>
+      <link>https://careers.leya.law/jobs/5015138-data-engineer</link>
+      <remoteStatus>none</remoteStatus>
+      <guid>1186d3b7-0222-4435-a410-ff02dfa50ae6</guid>
+      <tt:locations>
+        <tt:location>
+          <tt:name></tt:name>
+          <tt:address>Mäster Samuelsgatan 45</tt:address>
+          <tt:zip>111 57</tt:zip>
+          <tt:city>Stockholm</tt:city>
+          <tt:country>Sweden</tt:country>
+        </tt:location>
+      </tt:locations>
+      <tt:department>Engineering</tt:department>
+      <tt:role/>
+    </item>
+    <item>
+      <title>Legal Engineer - Sweden</title>
+      <description>&lt;h5 dir="ltr"&gt;About us:&lt;/h5&gt;&lt;p dir="ltr"&gt;At Leya, we’re on a mission to transform the way lawyers work. Our AI-native platform lets legal professionals enhance their productivity and automate complex workflows. We collaborate closely with our clients and iterate at a market-leading pace. In a year, we have gone from an early MVP to tools used daily by thousands of lawyers, and are now scaling rapidly. We are here to win together with our team and clients, and carry the belief that life is too short not to accomplish something truly special.&lt;br&gt;&lt;br&gt;You are joining an early stage scale-up with exceptional product-market fit, trusted by global leaders like Bird &amp;amp; Bird, Pérez-Llorca, and Mannheimer Swartling. Backed by over $35M in funding from top investors including Benchmark, Redpoint, and Y Combinator. And a world-class team from Google, Klarna, Spotify, and top tier law firms with infinite room to grow professionally.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;The role:&lt;/h5&gt;&lt;p dir="ltr"&gt;In this role, you’ll leverage your legal expertise to introduce Leya’s tools to law firms and in-house teams, becoming a trusted advisor on how our solutions can enhance their daily workflows.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;You’ll have the opportunity to influence how our AI solutions are perceived and adopted in the Nordic market. By building strong relationships with key decision-makers and leading tailored demos and educational sessions, you’ll help clients understand the real-world impact of our technology.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Joining Leya means having a direct influence on our strategy and success in the Nordics as well as product direction. You’ll be part of a fast-moving startup, where your contributions will shape how we grow and succeed in a rapidly evolving legal landscape.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;What you will be doing:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Engage with lawyers at existing and prospective clients to understand their workflow challenges, then demonstrate how Leya’s tools can solve them in a practical, impactful way.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Establish yourself as a trusted expert by addressing specific legal problems such as legal research, contract drafting, document analysis, due diligence, and more. &lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Lead tailored product demos for various law firm practice groups and in-house legal teams, asking insightful questions to validate how Leya can add value and showcasing our features and benefits.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Act as the “Voice of the Customer,” sharing legal insights with the product teams to improve our product features based on client feedback.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Help shape market perception by positioning Leya as a credible, substantive, and valuable partner, using our AI tools to make lawyers more effective and efficient.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;Who you are:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Legal Expertise&lt;/strong&gt;: 3+ years at a top-tier law firm, ideally in corporate law or litigation.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Executive Presence&lt;/strong&gt;: Proven ability to engage and build trust with decision-makers at all levels.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Strong Network:&lt;/strong&gt; A robust professional network within the legal industry, enabling you to open doors and build connections with ease.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Great Presentation and Communication Skills&lt;/strong&gt;: Exceptional presentation skills—whether on-the-spot whiteboarding or delivering polished demos.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Industry Insight:&lt;/strong&gt; Deep understanding of legal workflows and the challenges faced by legal teams.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;AI Curiosity:&lt;/strong&gt; A passion for exploring how AI can revolutionize the legal landscape.&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Bonus Points:&lt;/strong&gt; Experience in sales, client-facing roles, business development, or directly managing client matters and relationships&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;h5 dir="ltr"&gt;What’s in it for you:&lt;/h5&gt;&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Competitive base salary&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Generous stock option program&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;30 vacation days&lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;5000 SEK in Wellness contribution &lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;Pension scheme comparable to ITP1 &lt;/p&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;p dir="ltr"&gt;An office in the central parts of Stockholm&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p dir="ltr"&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 02 Sep 2024 16:46:57 +0200</pubDate>
+      <link>https://careers.leya.law/jobs/4926146-legal-engineer-sweden</link>
+      <remoteStatus>none</remoteStatus>
+      <guid>3fa19502-d834-4d68-9a15-11cf58454631</guid>
+      <tt:locations>
+        <tt:location>
+          <tt:name></tt:name>
+          <tt:address>Mäster Samuelsgatan 45</tt:address>
+          <tt:zip>111 57</tt:zip>
+          <tt:city>Stockholm</tt:city>
+          <tt:country>Sweden</tt:country>
+        </tt:location>
+      </tt:locations>
+      <tt:department>Growth</tt:department>
+      <tt:role/>
+    </item>
+  </channel>
+</rss>
